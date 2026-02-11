@@ -16,7 +16,7 @@ export function SiteHeader() {
             <Globe className="h-5 w-5 text-primary-foreground" />
           </div>
           <span className="text-lg font-bold tracking-tight text-foreground">
-            CharitySphere
+            Charity Sphere
           </span>
         </Link>
 
